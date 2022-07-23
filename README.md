@@ -1,2 +1,2 @@
 # studying
-study notes 
+study notes for python 2022 Alex Kwan
